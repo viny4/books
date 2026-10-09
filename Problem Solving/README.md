@@ -1,73 +1,18 @@
-# 🧩 Problem Solving
+# Problem Solving
 
-Welcome to the **Problem Solving** section! This category focuses on developing strong problem-solving skills, algorithmic thinking, and preparing for technical interviews.
+The Pragmatic Programmer, system design interviews and engineering effectiveness.
 
-## 📖 Topics Covered
+**6 books** in this folder.
 
-- **Algorithmic Thinking** - Breaking down complex problems
-- **Data Structures** - Choosing the right tools for the job
-- **Coding Challenges** - Practicing with real-world problems
-- **Technical Interviews** - Common patterns and strategies
-- **Competitive Programming** - Advanced problem-solving techniques
-- **System Design** - High-level system problem solving
-- **Mathematical Foundations** - Essential math for problem solving
+## Books
 
-## 📚 Featured Books
-
-- [Cracking the Coding Interview](https://github.com/fagun18/Books-Collection/tree/main/Problem%20Solving) - Gayle Laakmann McDowell
-- [Elements of Programming Interviews](https://github.com/fagun18/Books-Collection/tree/main/Problem%20Solving) - Adnan Aziz
-- [The Algorithm Design Manual](https://github.com/fagun18/Books-Collection/tree/main/Problem%20Solving) - Steven S. Skiena
-- [Programming Pearls](https://github.com/fagun18/Books-Collection/tree/main/Problem%20Solving) - Jon Bentley
-
-## 🎯 Problem-Solving Approaches
-
-1. **Understand the Problem**
-   - Clarify requirements and constraints
-   - Identify edge cases
-   - Restate the problem in your own words
-
-2. **Plan Your Approach**
-   - Break down the problem
-   - Consider different approaches
-   - Choose the most efficient solution
-
-3. **Implement the Solution**
-   - Write clean, efficient code
-   - Use appropriate data structures
-   - Handle edge cases
-
-4. **Test and Optimize**
-   - Verify correctness with test cases
-   - Analyze time and space complexity
-   - Look for optimization opportunities
-
-## 🎓 Learning Path
-
-1. Master basic data structures (arrays, strings, linked lists)
-2. Learn common algorithms (sorting, searching)
-3. Practice with coding challenges (LeetCode, HackerRank)
-4. Study system design principles
-5. Participate in coding competitions (Codeforces, CodeChef)
-6. Review and analyze others' solutions
-
-## 🛠️ Related Categories
-
-- [📚 Algorithms](https://github.com/fagun18/Books-Collection/tree/main/Algorithms)
-- [💻 Programming](https://github.com/fagun18/Books-Collection/tree/main/Programming)
-- [🏛️ System Design](https://github.com/fagun18/Books-Collection/tree/main/Software%20Architecture)
-- [📊 Data Structures](https://github.com/fagun18/Books-Collection/tree/main/Programming/Data%20Structures)
-
-## 🔗 Resources
-
-- [LeetCode](https://leetcode.com/)
-- [HackerRank](https://www.hackerrank.com/)
-- [Codeforces](https://codeforces.com/)
-- [NeetCode](https://neetcode.io/)
-- [AlgoExpert](https://www.algoexpert.io/)
-
-## 🤝 Contributing
-
-Found a great problem-solving resource? Contributions are welcome! Please submit a pull request or open an issue.
+- [Grokking the Advanced System Design Interview (2021)](_Grokking%20the%20Advanced%20System%20Design%20Interview%20%282021%29.pdf)
+- [Andrew Hunt, David Thomas - The Pragmatic Programmer  From Journeyman to Master (1999, Addison-Wesley Professional) - libgen.lc (1)](Andrew%20Hunt%2C%20David%20Thomas%20-%20The%20Pragmatic%20Programmer_%20From%20Journeyman%20to%20Master%20%281999%2C%20Addison-Wesley%20Professional%29%20-%20libgen.lc%20%281%29.pdf)
+- [David Thomas, Andrew Hunt - The Pragmatic Programmer  Your Journey To Mastery, 20th Anniversary Edition (2019, Addison-Wesley Professional) - libgen.li](David%20Thomas%2C%20Andrew%20Hunt%20-%20The%20Pragmatic%20Programmer_%20Your%20Journey%20To%20Mastery%2C%2020th%20Anniversary%20Edition%20%282019%2C%20Addison-Wesley%20Professional%29%20-%20libgen.li.pdf)
+- [the-effective-engineer](the-effective-engineer.pdf)
+- [triz-for-dummies](triz-for-dummies.pdf)
+- `System Design Interview` · [Grokking the Advanced System Design Interview (2021)](System%20Design%20Interview/_Grokking%20the%20Advanced%20System%20Design%20Interview%20%282021%29.pdf)
 
 ---
-📅 *Last Updated: May 2025*
+
+[← Back to all categories](../README.md) · [Full catalog](../BOOKS_LIST.md) · *Updated October 2026*

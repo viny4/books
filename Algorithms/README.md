@@ -1,46 +1,15 @@
-# 📚 Algorithms
+# Algorithms
 
-Welcome to the **Algorithms** section! This category contains resources that cover fundamental algorithms, data structures, and problem-solving techniques used in computer science and competitive programming.
+Algorithms and data structures, from CLRS to interview-style practice.
 
-## 📖 Topics Covered
+**3 books** in this folder.
 
-- **Sorting & Searching** - Various sorting algorithms and search techniques
-- **Data Structures** - Arrays, linked lists, trees, graphs, and more
-- **Complexity Analysis** - Big-O notation and algorithm efficiency
-- **Dynamic Programming** - Memoization, tabulation, and optimization
-- **Graph Algorithms** - Traversal, shortest paths, and network flows
-- **String Algorithms** - Pattern matching, string manipulation
-- **Competitive Programming** - Common patterns and competition strategies
+## Books
 
-## 📚 Featured Books
-
-- [Introduction to Algorithms](https://github.com/fagun18/Books-Collection/tree/main/Algorithms) - Cormen, Leiserson, Rivest, Stein
-- [Algorithms Unlocked](https://github.com/fagun18/Books-Collection/tree/main/Algorithms) - Thomas H. Cormen
-- [Data Structures and Algorithms Made Easy](https://github.com/fagun18/Books-Collection/tree/main/Algorithms) - Narasimha Karumanchi
-
-## 🎓 Learning Path
-
-1. Start with basic data structures (arrays, linked lists, stacks, queues)
-2. Learn basic algorithms (sorting, searching)
-3. Move to more complex data structures (trees, graphs, heaps)
-4. Study graph algorithms
-5. Master dynamic programming and advanced topics
-
-## 🛠️ Related Categories
-
-- [📊 Data Structures](https://github.com/fagun18/Books-Collection/tree/main/Programming/Data%20Structures)
-- [🧩 Problem Solving](https://github.com/fagun18/Books-Collection/tree/main/Problem%20Solving)
-- [💻 Programming](https://github.com/fagun18/Books-Collection/tree/main/Programming)
-
-## 🔗 Resources
-
-- [LeetCode](https://leetcode.com/)
-- [HackerRank](https://www.hackerrank.com/domains/tutorials/10-days-of-algorithms)
-- [GeeksforGeeks - Algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
-
-## 🤝 Contributing
-
-Found a great algorithms book or resource? Feel free to contribute by creating a pull request!
+- [Algorithms Unlocked (2013, The MIT Press) - Thomas H. Cormen](Algorithms%20Unlocked%20%282013%2C%20The%20MIT%20Press%29%20-%20Thomas%20H.%20Cormen.pdf)
+- [Data structures and algorithms made easy in Java   data structure and algorithmic puzzles (2018) - Narasimha Karumanchi](Data%20structures%20and%20algorithms%20made%20easy%20in%20Java%20_%20data%20structure%20and%20algorithmic%20puzzles%20%282018%29%20-%20Narasimha%20Karumanchi.pdf)
+- [Introduction to algorithms-The MIT Press (2009) - 3rd edition -Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein](Introduction%20to%20algorithms-The%20MIT%20Press%20%282009%29%20-%203rd%20edition%20-Thomas%20H.%20Cormen%2C%20Charles%20E.%20Leiserson%2C%20Ronald%20L.%20Rivest%2C%20Clifford%20Stein.pdf)
 
 ---
-📅 *Last Updated: May 2025*
+
+[← Back to all categories](../README.md) · [Full catalog](../BOOKS_LIST.md) · *Updated October 2026*

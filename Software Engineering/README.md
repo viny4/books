@@ -1,65 +1,20 @@
-# 💻 Software Engineering
+# Software Engineering
 
-Welcome to the **Software Engineering** section! This category covers the principles, methodologies, and best practices of professional software development beyond just writing code.
+Refactoring, TDD, design patterns, debugging and project management classics.
 
-## 📖 Topics Covered
+**8 books** in this folder.
 
-- **Software Development Lifecycle** - Requirements to maintenance
-- **Design Patterns** - Reusable solutions to common problems
-- **Code Quality** - Maintainability, readability, and standards
-- **Software Metrics** - Measuring code and process quality
-- **Documentation** - Effective technical writing
-- **Team Collaboration** - Version control, code reviews
-- **Project Management** - Agile, Scrum, Kanban
+## Books
 
-## 📚 Featured Books
-
-- [Code Complete](https://github.com/fagun18/Books-Collection/tree/main/Software%20Engineering) - Steve McConnell
-- [The Pragmatic Programmer](https://github.com/fagun18/Books-Collection/tree/main/Software%20Engineering) - Andrew Hunt & David Thomas
-- [Clean Code](https://github.com/fagun18/Books-Collection/tree/main/Software%20Engineering) - Robert C. Martin
-- [Design Patterns](https://github.com/fagun18/Books-Collection/tree/main/Software%20Engineering) - Gang of Four
-- Martin Fowler - Refactoring - Improving the Design of Existing Code.pdf  
-  A comprehensive guide to refactoring techniques for improving code maintainability.
-- kent-beck-test-driven-development-by-example.pdf  
-  The classic introduction to test-driven development (TDD) with practical examples.
-
-## 🛠️ Key Practices
-
-1. **Version Control** - Git workflows and branching strategies
-2. **Code Reviews** - Effective peer code review processes
-3. **Testing** - Unit, integration, and system testing
-4. **CI/CD** - Continuous Integration and Deployment
-5. **Documentation** - Code comments, READMEs, API docs
-6. **Refactoring** - Improving code without changing behavior
-7. **Technical Debt Management** - When and how to address technical debt
-
-## 🎓 Learning Path
-
-1. Learn a programming language deeply
-2. Understand data structures and algorithms
-3. Study software design principles (SOLID, DRY, KISS)
-4. Learn about design patterns
-5. Practice with version control (Git)
-6. Understand testing methodologies
-7. Work on collaborative projects
-
-## 🛠️ Related Categories
-
-- [🏛️ Software Architecture](https://github.com/fagun18/Books-Collection/tree/main/Software%20Architecture)
-- [🧪 Testing](https://github.com/fagun18/Books-Collection/tree/main/Testing)
-- [🛠️ Development Practices](https://github.com/fagun18/Books-Collection/tree/main/Development%20Practices)
-- [🏗️ System Design](https://github.com/fagun18/Books-Collection/tree/main/System%20Design)
-
-## 🔗 Resources
-
-- [Martin Fowler's Blog](https://martinfowler.com/)
-- [Refactoring Guru](https://refactoring.guru/)
-- [GitHub Guides](https://guides.github.com/)
-- [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials)
-
-## 🤝 Contributing
-
-Found a great software engineering resource? Contributions are welcome! Please submit a pull request or open an issue.
+- [Software Engineering at Google  Lessons Learned from Programming Over Time (2020, O'Reilly Media) - Titus Winters, Tom Manshreck, Hyrum Wright](_Software%20Engineering%20at%20Google_%20Lessons%20Learned%20from%20Programming%20Over%20Time%20%282020%2C%20O%27Reilly%20Media%29%20-%20Titus%20Winters%2C%20Tom%20Manshreck%2C%20Hyrum%20Wright.pdf)
+- [Design Patterns Elements of Reusable Object-Oriented Software](Design%20Patterns%20Elements%20of%20Reusable%20Object-Oriented%20Software.pdf)
+- [Head First Design Patterns](Head%20First%20Design%20Patterns.pdf)
+- [kent-beck-test-driven-development-by-example](kent-beck-test-driven-development-by-example.pdf)
+- [Martin Fowler - Refactoring - Improving the Design of Existing Code](Martin%20Fowler%20-%20Refactoring%20-%20Improving%20the%20Design%20of%20Existing%20Code.pdf)
+- [Modern Software Engineering  Doing What Works to Build Better Software Faster (2021, Addison-Wesley Professional) - David Farley](Modern%20Software%20Engineering_%20Doing%20What%20Works%20to%20Build%20Better%20Software%20Faster%20%282021%2C%20Addison-Wesley%20Professional%29%20-%20David%20Farley.pdf)
+- [mythical-man-month](mythical-man-month.pdf)
+- [Why Programs Fail Second Edition A Guide to Systematic Debugging  2009by-Andreas Zeller](Why_Programs_Fail_Second_Edition_A_Guide_to_Systematic_Debugging__2009by-Andreas_Zeller.pdf)
 
 ---
-📅 *Last Updated: May 2025*
+
+[← Back to all categories](../README.md) · [Full catalog](../BOOKS_LIST.md) · *Updated October 2026*

@@ -1,61 +1,20 @@
-# 💻 Operating Systems
+# Operating Systems
 
-Welcome to the **Operating Systems** section! This category covers the fundamental concepts, design, and implementation of operating systems.
+Operating system concepts, UNIX internals and how Linux works.
 
-## 📖 Topics Covered
+**8 books** in this folder.
 
-- **Process Management** - Processes, threads, scheduling
-- **Memory Management** - Virtual memory, paging, segmentation
-- **File Systems** - Storage, organization, access methods
-- **I/O Systems** - Device management, drivers
-- **Concurrency** - Synchronization, deadlocks
-- **Security & Protection** - Access control, authentication
-- **Distributed Systems** - Networking, distributed file systems
+## Books
 
-## 📚 Featured Books
-
-- [Operating System Concepts](https://github.com/fagun18/Books-Collection/tree/main/Operating%20Systems) - Silberschatz, Galvin, Gagne
-- [Modern Operating Systems](https://github.com/fagun18/Books-Collection/tree/main/Operating%20Systems) - Andrew S. Tanenbaum
-- [The Linux Programming Interface](https://github.com/fagun18/Books-Collection/tree/main/Operating%20Systems) - Michael Kerrisk
-- [Windows Internals](https://github.com/fagun18/Books-Collection/tree/main/Operating%20Systems) - Pavel Yosifovich
-
-## 🏗️ Core Components
-
-1. **Kernel** - Core of the OS, manages system resources
-2. **Process Manager** - Handles process creation and scheduling
-3. **Memory Manager** - Manages RAM and virtual memory
-4. **File System** - Handles file storage and retrieval
-5. **Device Drivers** - Interface with hardware devices
-6. **System Calls** - Interface between user programs and the OS
-7. **User Interface** - Command-line or graphical interface
-
-## 🎓 Learning Path
-
-1. Learn computer organization and architecture
-2. Study process and memory management
-3. Understand file systems and storage
-4. Learn about concurrency and synchronization
-5. Explore security and protection mechanisms
-6. Study distributed systems concepts
-7. Work with real-world operating systems (Linux, Windows, macOS)
-
-## 🛠️ Related Categories
-
-- [🖥️ Computer Architecture](https://github.com/fagun18/Books-Collection/tree/main/Computer%20Architecture)
-- [🔐 Security](https://github.com/fagun18/Books-Collection/tree/main/Security)
-- [🔄 Concurrency](https://github.com/fagun18/Books-Collection/tree/main/Programming/Concurrency)
-- [🌐 Networking](https://github.com/fagun18/Books-Collection/tree/main/Networking)
-
-## 🔗 Resources
-
-- [OSDev Wiki](https://wiki.osdev.org/)
-- [Linux Kernel Documentation](https://www.kernel.org/doc/)
-- [MIT 6.828: Operating System Engineering](https://pdos.csail.mit.edu/6.828/)
-- [OS: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
-
-## 🤝 Contributing
-
-Found a great OS resource? Contributions are welcome! Please submit a pull request or open an issue.
+- [[Prentice-Hall Software Series] Maurice J. Bach - The Design of the UNIX Operating System (Prentice-Hall Software Series) (1986, Prentice Hall) - libgen.li](%5BPrentice-Hall%20Software%20Series%5D%20Maurice%20J.%20Bach%20-%20The%20Design%20of%20the%20UNIX%20Operating%20System%20%28Prentice-Hall%20Software%20Series%29%20%281986%2C%20Prentice%20Hall%29%20-%20libgen.li.pdf)
+- [A COMMENTARY ON THE SIXTH EDITION UNIX OPERATING SYSTEM](A%20COMMENTARY%20ON%20THE%20SIXTH%20EDITION%20UNIX%20OPERATING%20SYSTEM.pdf)
+- [a simple, Unix-like teaching operating system](a%20simple%2C%20Unix-like%20teaching%20operating%20system.pdf)
+- [Abraham Silberschatz, Peter B. Galvin, Greg Gagne - Operating System Concepts Essentials (2013, Wiley)](Abraham%20Silberschatz%2C%20Peter%20B.%20Galvin%2C%20Greg%20Gagne%20-%20Operating%20System%20Concepts%20Essentials%20%282013%2C%20Wiley%29.pdf)
+- [Andrew S. Tanenbaum, Herbert Bos - Modern Operating Systems (2023, Pearson) - libgen.li](Andrew%20S.%20Tanenbaum%2C%20Herbert%20Bos%20-%20Modern%20Operating%20Systems%20%282023%2C%20Pearson%29%20-%20libgen.li.pdf)
+- [Brian Ward - How Linux Works. What Every Superuser Should Know (2021, no starch press)](Brian%20Ward%20-%20How%20Linux%20Works.%20What%20Every%20Superuser%20Should%20Know%20%282021%2C%20no%20starch%20press%29.pdf)
+- [Doeppner, Thomas W - Operating Systems In Depth  Design and Programming (2011 2010, Wiley)](Doeppner%2C%20Thomas%20W%20-%20Operating%20Systems%20In%20Depth_%20Design%20and%20Programming%20%282011_2010%2C%20Wiley%29.pdf)
+- [Operating Systems Principles & Practice (2015)](Operating%20Systems%20Principles%20%26%20Practice%20%282015%29.pdf)
 
 ---
-📅 *Last Updated: May 2025*
+
+[← Back to all categories](../README.md) · [Full catalog](../BOOKS_LIST.md) · *Updated October 2026*

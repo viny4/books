@@ -1,77 +1,16 @@
-# 🤝 Soft Skills
+# Soft Skills
 
-Welcome to the **Soft Skills** section! This category focuses on the non-technical skills that are essential for a successful career in technology and beyond.
+Negotiation and personal strengths.
 
-## 📖 Topics Covered
+**4 books** in this folder.
 
-- **Communication** - Effective speaking and writing
-- **Teamwork** - Collaboration and conflict resolution
-- **Leadership** - Guiding and motivating others
-- **Time Management** - Productivity and organization
-- **Emotional Intelligence** - Self-awareness and empathy
-- **Networking** - Building professional relationships
-- **Career Development** - Growth and advancement strategies
+## Books
 
-## 📚 Featured Books
-
-- [How to Win Friends and Influence People](https://github.com/fagun18/Books-Collection/tree/main/Soft%20Skills) - Dale Carnegie
-- [Atomic Habits](https://github.com/fagun18/Books-Collection/tree/main/Soft%20Skills) - James Clear
-- [The 7 Habits of Highly Effective People](https://github.com/fagun18/Books-Collection/tree/main/Soft%20Skills) - Stephen R. Covey
-- [Crucial Conversations](https://github.com/fagun18/Books-Collection/tree/main/Soft%20Skills) - Kerry Patterson
-
-## 💡 Key Skills
-
-### Communication
-- Clear and concise writing
-- Effective presentations
-- Active listening
-- Giving and receiving feedback
-
-### Teamwork
-- Collaboration tools and techniques
-- Conflict resolution
-- Building trust
-- Remote collaboration
-
-### Leadership
-- Decision making
-- Delegation
-- Mentoring
-- Change management
-
-### Personal Development
-- Time management
-- Goal setting
-- Stress management
-- Continuous learning
-
-## 🎓 Learning Path
-
-1. Assess your current soft skills
-2. Focus on one area at a time
-3. Practice in real-world situations
-4. Seek feedback regularly
-5. Learn from role models
-6. Read and apply concepts from books
-7. Track your progress
-
-## 🛠️ Related Categories
-
-- [💼 Career Development](https://github.com/fagun18/Books-Collection/tree/main/Career%20Development)
-- [📈 Productivity](https://github.com/fagun18/Books-Collection/tree/main/Productivity)
-- [🗣️ Public Speaking](https://github.com/fagun18/Books-Collection/tree/main/Public%20Speaking)
-- [🧠 Psychology](https://github.com/fagun18/Books-Collection/tree/main/Psychology)
-
-## 🔗 Resources
-
-- [TED Talks](https://www.ted.com/topics/communication)
-- [Harvard Business Review](https://hbr.org/)
-- [MindTools](https://www.mindtools.com/)
-- [Coursera - Soft Skills Courses](https://www.coursera.org/courses?query=soft%20skills)
-
-## 🤝 Contributing
-
-Found a great soft skills resource? Contributions are welcome! Please submit a pull request or open an issue.
+- [Strengths Finder 2.0 - Rath Tom.](Strengths%20Finder%202.0%20-%20Rath%20Tom.%20.pdf)
+- [StrengthsFinder](StrengthsFinder.pdf)
+- `negotiating` · [EssentialInsight Summaries - Summary  Never Split the Difference  Negotiating As If Your Life Depended On It - by Chris Voss (2021, EssentialInsight Summaries) - libgen.li](negotiating/EssentialInsight%20Summaries%20-%20Summary_%20Never%20Split%20the%20Difference_%20Negotiating%20As%20If%20Your%20Life%20Depended%20On%20It%20-%20by%20Chris%20Voss%20%282021%2C%20EssentialInsight%20Summaries%29%20-%20libgen.li.pdf)
+- `negotiating` · [Voss, Chris - Never Split the Difference  Negotiating as if Your Life Depended on It 1 1 (2016) - libgen.li](negotiating/Voss%2C%20Chris%20-%20Never%20Split%20the%20Difference_%20Negotiating%20as%20if%20Your%20Life%20Depended%20on%20It%201%201%20%282016%29%20-%20libgen.li.pdf)
 
 ---
-📅 *Last Updated: May 2025*
+
+[← Back to all categories](../README.md) · [Full catalog](../BOOKS_LIST.md) · *Updated October 2026*

@@ -1,61 +1,18 @@
-# 🏗️ System Design
+# System Design
 
-Welcome to the **System Design** section! This category covers the principles, patterns, and best practices for designing scalable, reliable, and efficient software systems.
+Microservices patterns and REST API design.
 
-## 📖 Topics Covered
+**6 books** in this folder.
 
-- **System Architecture** - Monoliths, microservices, serverless
-- **Scalability** - Horizontal vs vertical scaling, load balancing
-- **Databases** - SQL, NoSQL, caching strategies
-- **API Design** - REST, GraphQL, gRPC
-- **Messaging Systems** - Message queues, event streaming
-- **Performance Optimization** - Caching, CDN, database indexing
-- **Reliability** - Fault tolerance, disaster recovery
+## Books
 
-## 📚 Featured Books
-
-- [Designing Data-Intensive Applications](https://github.com/fagun18/Books-Collection/tree/main/System%20Design) - Martin Kleppmann
-- [System Design Interview](https://github.com/fagun18/Books-Collection/tree/main/System%20Design) - Alex Xu
-- [Building Microservices](https://github.com/fagun18/Books-Collection/tree/main/System%20Design) - Sam Newman
-- [Clean Architecture](https://github.com/fagun18/Books-Collection/tree/main/System%20Design) - Robert C. Martin
-
-## 🏗️ Design Components
-
-1. **Load Balancers** - Distribute traffic across servers
-2. **Caching Layer** - Redis, Memcached
-3. **Databases** - SQL, NoSQL, data partitioning
-4. **Message Brokers** - Kafka, RabbitMQ
-5. **CDN** - Content delivery networks
-6. **Search** - Elasticsearch, Solr
-7. **Monitoring** - Logging, metrics, alerts
-
-## 🎓 Learning Path
-
-1. Learn about basic web architecture
-2. Understand databases and data modeling
-3. Study distributed systems concepts
-4. Learn about caching and CDNs
-5. Practice designing real-world systems
-6. Study case studies of popular systems
-7. Prepare for system design interviews
-
-## 🛠️ Related Categories
-
-- [🏛️ Software Architecture](https://github.com/fagun18/Books-Collection/tree/main/Software%20Architecture)
-- [🌐 Distributed Systems](https://github.com/fagun18/Books-Collection/tree/main/Distributed%20Systems)
-- [💾 Databases](https://github.com/fagun18/Books-Collection/tree/main/Databases)
-- [☁️ Cloud Computing](https://github.com/fagun18/Books-Collection/tree/main/Cloud%20Computing)
-
-## 🔗 Resources
-
-- [System Design Primer](https://github.com/donnemartin/system-design-primer)
-- [High Scalability](http://highscalability.com/)
-- [Grokking System Design](https://www.educative.io/courses/grokking-the-system-design-interview)
-- [System Design Interview](https://github.com/checkcheckzz/system-design-interview)
-
-## 🤝 Contributing
-
-Found a great system design resource? Contributions are welcome! Please submit a pull request or open an issue.
+- [Chris Richardson - Microservices Patterns  With examples in Java (2018, Manning Publications)](Chris%20Richardson%20-%20Microservices%20Patterns_%20With%20examples%20in%20Java%20%282018%2C%20Manning%20Publications%29.pdf)
+- [Designing Distributed Systems  Patterns and Paradigms for Scalable, Reliable Services (2018, O’Reilly Media) - Brendan Burns](Designing%20Distributed%20Systems_%20Patterns%20and%20Paradigms%20for%20Scalable%2C%20Reliable%20Services%20%282018%2C%20O%E2%80%99Reilly%20Media%29%20-%20Brendan%20Burns.pdf)
+- [hands-on-restful-api-design-patterns-and-best-practices](hands-on-restful-api-design-patterns-and-best-practices.pdf)
+- [Payment Systems and Performance Improvement  Participation in Payment System Design (1989) - Bowey, Angela  Thorpe, Richard](Payment%20Systems%20and%20Performance%20Improvement_%20Participation%20in%20Payment%20System%20Design%20%281989%29%20-%20Bowey%2C%20Angela_%20Thorpe%2C%20Richard.pdf)
+- [rest-api-design-rulebook](rest-api-design-rulebook.pdf)
+- [Stowe M. - Undisturbed Rest - libgen.li](Stowe%20M.%20-%20Undisturbed%20Rest%20-%20libgen.li.pdf)
 
 ---
-📅 *Last Updated: May 2025*
+
+[← Back to all categories](../README.md) · [Full catalog](../BOOKS_LIST.md) · *Updated October 2026*
