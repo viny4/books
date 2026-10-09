@@ -110,6 +110,18 @@ The books I'd recommend to every software engineer:
 
 ---
 
+## ➕ Adding Books
+
+Put the PDF in the folder for its topic (a new folder becomes a new shelf) and push. The
+[Update library site](.github/workflows/update-site.yml) action then adds it to the library
+website automatically: cover, title, author, shelf, and duplicate/edition checks. Its run
+summary lists what changed.
+
+For large batches (over 2 GB of new PDFs), build the catalog in `books-site` first with
+`npm run catalog`, so the action doesn't have to download them all.
+
+---
+
 ## 🚀 How to Use
 
 1. **Browse** a folder from the tables above, or open the **[full catalog](BOOKS_LIST.md)**.

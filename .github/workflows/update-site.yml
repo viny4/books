@@ -1,0 +1,68 @@
+# Keeps the library website (viny4/books-site) in sync with this repo.
+#
+# On every push that adds, moves or deletes a PDF, this reads the new books
+# (cover, title, author, pages, shelf), commits the updated catalog to books-site,
+# and Cloudflare Pages redeploys the site from there. Only new PDFs are downloaded;
+# everything else comes from the catalog cache in books-site.
+name: Update library site
+
+on:
+  push:
+    branches: [main]
+    paths: ['**.pdf', '**.PDF']
+  workflow_dispatch:
+
+# One run at a time, in push order.
+concurrency:
+  group: update-library-site
+  cancel-in-progress: false
+
+jobs:
+  catalog:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    env:
+      GIT_LFS_SKIP_SMUDGE: '1'
+    steps:
+      - name: Check out books (file list only, no PDF downloads)
+        uses: actions/checkout@v4
+        with:
+          path: books
+          lfs: false
+
+      - name: Check out the website
+        uses: actions/checkout@v4
+        with:
+          repository: viny4/books-site
+          ssh-key: ${{ secrets.SITE_DEPLOY_KEY }}
+          path: books-site
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: books-site/.nvmrc
+          cache: npm
+          cache-dependency-path: books-site/package-lock.json
+
+      - name: Install
+        working-directory: books-site
+        run: npm ci --omit=dev
+
+      - name: Build the catalog
+        working-directory: books-site
+        env:
+          PDF_FETCH_BASE: https://media.githubusercontent.com/media/${{ github.repository }}/${{ github.sha }}/
+          MAX_DOWNLOAD_MB: '2048'
+        run: node scripts/build-catalog.mjs ../books
+
+      - name: Publish to the website
+        working-directory: books-site
+        run: |
+          git add -A src/data public/covers scripts/catalog-cache.json
+          if git diff --cached --quiet; then
+            echo "The website is already up to date."
+            exit 0
+          fi
+          git -c user.name="$(git -C ../books log -1 --format=%an)" \
+              -c user.email="$(git -C ../books log -1 --format=%ae)" \
+              commit -m "Update catalog from books@${GITHUB_SHA::7}"
+          git push
