@@ -25,19 +25,19 @@ jobs:
       GIT_LFS_SKIP_SMUDGE: '1'
     steps:
       - name: Check out books (file list only, no PDF downloads)
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           path: books
           lfs: false
 
       - name: Check out the website
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           repository: viny4/books-site
           ssh-key: ${{ secrets.SITE_DEPLOY_KEY }}
           path: books-site
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v7
         with:
           node-version-file: books-site/.nvmrc
           cache: npm
