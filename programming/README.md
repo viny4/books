@@ -2,28 +2,23 @@
 
 Java, Spring Boot, Python, concurrency, clean code, design patterns and Git.
 
-**35 books** in this folder.
+**30 books** in this folder.
 
 ## Books
 
 - [97 Things Every Programmer Should Know](97_Things_Every_Programmer_Should_Know.pdf)
 - [Concurrent Programming in Java Design Principles](Concurrent%20Programming%20in%20Java%20Design%20Principles.pdf)
-- [Designing Web APIs by Brenda Jin, Saurabh Sahni, Amir Shevat-OReilly](Designing%20Web%20APIs%20by%20Brenda%20Jin%2C%20Saurabh%20Sahni%2C%20Amir%20Shevat-OReilly.pdf)
-- [The Art of Unit Testing, with examples in C  (2014, Manning) - Roy Osherove](The%20Art%20of%20Unit%20Testing%2C%20with%20examples%20in%20C_%20%282014%2C%20Manning%29%20-%20Roy%20Osherove.pdf)
 - [Your Code as a Crime Scene  Use Forensic Techniques to Arrest Defects, Bottlenecks, and Bad Design in Your Programs (2015) - Adam Tornhill](Your%20Code%20as%20a%20Crime%20Scene_%20Use%20Forensic%20Techniques%20to%20Arrest%20Defects%2C%20Bottlenecks%2C%20and%20Bad%20Design%20in%20Your%20Programs%20%282015%29%20-%20Adam%20Tornhill.pdf)
 - `clean-code` · [Clean Code  A Handbook of Agile Software Craftsmanship - Robert C. Martin](clean-code/Clean%20Code_%20A%20Handbook%20of%20Agile%20Software%20Craftsmanship%20-%20Robert%20C.%20Martin.pdf)
 - `clean-code` · [clean-code-tips-tricks-world-coding](clean-code/clean-code-tips-tricks-world-coding.pdf)
-- `clean-code` · [clean-code](clean-code/clean-code.pdf)
 - `clean-code` · [Code Simplicity -The Fundamentals of Software](clean-code/Code%20Simplicity%20-The%20Fundamentals%20of%20Software.pdf)
 - `concurrency` · [Art of](concurrency/Art%20of.pdf)
 - `concurrency` · [Javier Fernandez Gonzalez - Mastering Concurrency Programming with Java 9 (true pdf) (2020, Packt) - libgen.li](concurrency/Javier%20Fernandez%20Gonzalez%20-%20Mastering%20Concurrency%20Programming%20with%20Java%209%20%28true%20pdf%29%20%282020%2C%20Packt%29%20-%20libgen.li.pdf)
 - `concurrency` · [Oaks, Scott Wong, Henry - Java Threads (2004, O'Reilly Media) - libgen.li](concurrency/Oaks%2C%20Scott_Wong%2C%20Henry%20-%20Java%20Threads%20%282004%2C%20O%27Reilly%20Media%29%20-%20libgen.li.pdf)
 - `concurrency` · [The Art of Multiprocessor Programming, Revised Reprint- Maurice Herlihy, Nir Shavit -Morgan Kaufmann (2012)](concurrency/The%20Art%20of%20Multiprocessor%20Programming%2C%20Revised%20Reprint-%20Maurice%20Herlihy%2C%20Nir%20Shavit%20-Morgan%20Kaufmann%20%282012%29.pdf)
 - `design-pattern` · [Alexander Shvets - Dive Into Design Patterns - libgen.li](design-pattern/Alexander%20Shvets%20-%20Dive%20Into%20Design%20Patterns%20-%20libgen.li.pdf)
-- `design-pattern` · [Erich Gamma, Richard Helm, Ralph Johnson, John M. Vlissides - Design Patterns  Elements of Reusable Object-Oriented Software (1994, Addison-Wesley Professional) - libgen.li](design-pattern/Erich%20Gamma%2C%20Richard%20Helm%2C%20Ralph%20Johnson%2C%20John%20M.%20Vlissides%20-%20Design%20Patterns_%20Elements%20of%20Reusable%20Object-Oriented%20Software%20%281994%2C%20Addison-Wesley%20Professional%29%20-%20libgen.li.pdf)
 - `design-pattern` · [Erich Gamma, Richard Helm, Ralph Johnson, John M. Vlissides - Design Patterns  Elements of Reusable Object-Oriented Software-addison-wesley (1994)](design-pattern/Erich%20Gamma%2C%20Richard%20Helm%2C%20Ralph%20Johnson%2C%20John%20M.%20Vlissides%20-%20Design%20Patterns_%20Elements%20of%20Reusable%20Object-Oriented%20Software-addison-wesley%20%281994%29.pdf)
 - `design-patterns` · [Agile-Principles-Patterns-and-Practices-in-C](design-patterns/Agile-Principles-Patterns-and-Practices-in-C.pdf)
-- `design-patterns` · [Head First Design Patterns 2nd Edition by Eric Freeman, Elisabeth Robson](design-patterns/Head%20First%20Design%20Patterns%202nd%20Edition%20by%20Eric%20Freeman%2C%20Elisabeth%20Robson.pdf)
 - `java` · [[JAVA][Java Performance - The Definitive Guide]](java/%5BJAVA%5D%5BJava%20Performance%20-%20The%20Definitive%20Guide%5D.pdf)
 - `java` · [Y Daniel Liang - Introduction to Java Programming and Data Structures, Comprehensive Version (2017, Pearson)](java/Y%20Daniel%20Liang%20-%20Introduction%20to%20Java%20Programming%20and%20Data%20Structures%2C%20Comprehensive%20Version%20%282017%2C%20Pearson%29.pdf)
 - `java` · [Y. Daniel Liang - Introduction to Java Programming and Data Structures, Comprehensive Version (2019, Pearson)](java/Y.%20Daniel%20Liang%20-%20Introduction%20to%20Java%20Programming%20and%20Data%20Structures%2C%20Comprehensive%20Version%20%282019%2C%20Pearson%29.pdf)

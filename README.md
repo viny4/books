@@ -7,7 +7,7 @@
     <a href="BOOKS_LIST.md">Full Catalog</a> •
     <a href="#-how-to-use">How to Use</a>
   </p>
-  <img src="https://img.shields.io/badge/Books-265-blueviolet?style=flat-square" alt="265 books">
+  <img src="https://img.shields.io/badge/Books-232-blueviolet?style=flat-square" alt="232 books">
   <img src="https://img.shields.io/badge/Categories-31-success?style=flat-square" alt="31 categories">
   <img src="https://img.shields.io/github/last-commit/viny4/books?style=flat-square" alt="Last commit">
 </div>
@@ -16,7 +16,8 @@
 
 ## 📊 At a Glance
 
-- **265 books** (PDF) across **31 folders**
+- **232 books** across **31 folders** (242 PDFs, counting 10 older editions kept alongside the newest)
+- No duplicate files: every book is stored once
 - Strongest areas: **AI & LLMs**, **programming**, **databases**, **software architecture** and **Python**
 - Full, clickable list of every book: **[BOOKS_LIST.md](BOOKS_LIST.md)**
 - Last updated: **October 2026**
@@ -36,7 +37,7 @@ The books I'd recommend to every software engineer:
 | 5 | [Clean Code](programming/clean-code/Clean%20Code_%20A%20Handbook%20of%20Agile%20Software%20Craftsmanship%20-%20Robert%20C.%20Martin.pdf) | Robert C. Martin |
 | 6 | [Refactoring](Software%20Engineering/Martin%20Fowler%20-%20Refactoring%20-%20Improving%20the%20Design%20of%20Existing%20Code.pdf) | Martin Fowler |
 | 7 | [Working Effectively with Legacy Code](programming/refactoring/%5BRobert%20C.%20Martin%20series%5D%20Feathers%2C%20Michael%20C%20-%20Working%20effectively%20with%20legacy%20code%20%282013%2C%20Prentice%20Hall%20PTR%29%20-%20libgen.li.pdf) | Michael C. Feathers |
-| 8 | [Software Architecture: The Hard Parts](Software%20Architecture/Software%20Architecture%20The%20Hard%20Parts%20-%20Neal%20Ford%2C%20Mark%20Richards%2C%20Pramod%20Sadalage%2C%20Zhamak%20Dehghani.pdf) | Neal Ford, Mark Richards, Pramod Sadalage, Zhamak Dehghani |
+| 8 | [Software Architecture: The Hard Parts](Software%20Architecture/Software%20Architecture%20-%20The%20Hardparts.pdf) | Neal Ford, Mark Richards, Pramod Sadalage, Zhamak Dehghani |
 | 9 | [The Mythical Man-Month](Software%20Engineering/mythical-man-month.pdf) | Frederick P. Brooks Jr. |
 | 10 | [Why Programs Fail](Software%20Engineering/Why_Programs_Fail_Second_Edition_A_Guide_to_Systematic_Debugging__2009by-Andreas_Zeller.pdf) | Andreas Zeller |
 
@@ -64,23 +65,23 @@ The books I'd recommend to every software engineer:
 ### 🏗️ Architecture & System Design
 | Folder | Books | What's inside |
 |--------|------:|---------------|
-| [Software Architecture](Software%20Architecture) | 24 | Clean Architecture, DDD, microservices, enterprise patterns |
-| [Software Architecture & Systems](Software%20Architecture%20%26%20Systems) | 4 | Cloud-native patterns, .NET architecture |
+| [Software Architecture](Software%20Architecture) | 18 | Clean Architecture, DDD, microservices, enterprise patterns |
+| [Software Architecture & Systems](Software%20Architecture%20%26%20Systems) | 2 | Cloud-native patterns, .NET architecture |
 | [System Design](System%20Design) | 6 | Microservices patterns, REST API design |
-| [Distributed Systems](Distributed%20Systems) | 4 | Distributed transactions, cloud-native microservices |
+| [Distributed Systems](Distributed%20Systems) | 3 | Distributed transactions, cloud-native microservices |
 | [Apache Kafka](Apache%20Kafka) | 6 | Kafka, Kafka Streams, ksqlDB, tuning |
 
 ### 🗄️ Databases
 | Folder | Books | What's inside |
 |--------|------:|---------------|
-| [Databases](Databases) | 27 | MySQL, PostgreSQL, Redis, Elasticsearch, MongoDB, Cassandra, data modeling |
+| [Databases](Databases) | 24 | MySQL, PostgreSQL, Redis, Elasticsearch, MongoDB, Cassandra, data modeling |
 
 ### 💻 Programming & Engineering Practice
 | Folder | Books | What's inside |
 |--------|------:|---------------|
-| [programming](programming) | 35 | Java, Spring Boot, Python, concurrency, clean code, design patterns, Git |
-| [Software Engineering](Software%20Engineering) | 8 | Refactoring, TDD, GoF patterns, debugging |
-| [Software Testing](Software%20Testing) | 7 | Unit testing, JUnit, Mockito, k6 load testing |
+| [programming](programming) | 30 | Java, Spring Boot, Python, concurrency, clean code, design patterns, Git |
+| [Software Engineering](Software%20Engineering) | 5 | Refactoring, TDD, GoF patterns, debugging |
+| [Software Testing](Software%20Testing) | 6 | Unit testing, JUnit, Mockito, k6 load testing |
 | [Development Practices](Development%20Practices) | 3 | Software Engineering at Google, regex |
 | [Head First](Head%20First) | 7 | Java, Go, JavaScript, design patterns, Agile, PMP |
 | [C, C++, C#, and .NET](C%2C%20C%2B%2B%2C%20C%23%2C%20and%20.NET) | 3 | C# 14, .NET 10, ASP.NET Core |
@@ -102,9 +103,9 @@ The books I'd recommend to every software engineer:
 | Folder | Books | What's inside |
 |--------|------:|---------------|
 | [Interview Pattern Book](Interview%20Pattern%20Book) | 1 | Coding interview patterns |
-| [Problem Solving](Problem%20Solving) | 6 | The Pragmatic Programmer, system design interviews, The Effective Engineer |
+| [Problem Solving](Problem%20Solving) | 5 | The Pragmatic Programmer, system design interviews, The Effective Engineer |
 | [Algorithms](Algorithms) | 3 | CLRS, Algorithms Unlocked, DSA in Java |
-| [Soft Skills](Soft%20Skills) | 4 | Negotiation, StrengthsFinder |
+| [Soft Skills](Soft%20Skills) | 3 | Negotiation, StrengthsFinder |
 | [Non-Technical](Non-Technical) | 2 | Business and leadership |
 
 ---
